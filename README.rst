@@ -2,11 +2,11 @@
 Mopidy-Bassdrive
 ****************
 
-.. image:: https://pypip.in/v/Mopidy-Bassdrive/badge.png
+.. image:: https://img.shields.io/pypi/v/Mopidy-Bassdrive.svg
     :target: https://pypi.python.org/pypi/Mopidy-Bassdrive/
     :alt: Latest PyPI version
 
-.. image:: https://pypip.in/d/Mopidy-Bassdrive/badge.png
+.. image:: https://img.shields.io/pypi/dm/Mopidy-Bassdrive.svg
     :target: https://pypi.python.org/pypi/Mopidy-Bassdrive/
     :alt: Number of PyPI downloads
 
